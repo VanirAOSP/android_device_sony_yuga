@@ -6,3 +6,6 @@ ro.sf.lcd_density=480
 
 #Thermal
 persist.thermal.monitor=true
+
+# COMMENT OUT IF NOT USING STOCK KERNEL
+#persist.kernel.ext=1
