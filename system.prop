@@ -3,3 +3,6 @@ ro.cwm.enable_key_repeat=true
 
 # Graphics
 ro.sf.lcd_density=480
+
+#Thermal
+persist.thermal.monitor=true
