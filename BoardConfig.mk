@@ -15,6 +15,8 @@
 # inherit from the common fusion3 definitions
 -include device/sony/fusion3-common/BoardConfigCommon.mk
 
+TARGET_KERNEL_SOURCE := kernel/sony/yuga
+
 # inherit from the proprietary version
 -include vendor/sony/yuga/BoardConfigVendor.mk
 
