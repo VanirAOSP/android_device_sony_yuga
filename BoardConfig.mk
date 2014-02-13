@@ -15,8 +15,6 @@
 # inherit from the common fusion3 definitions
 include device/sony/fusion3-common/BoardConfigCommon.mk
 
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.6
-
 # inherit from the proprietary version
 -include vendor/sony/yuga/BoardConfigVendor.mk
 
