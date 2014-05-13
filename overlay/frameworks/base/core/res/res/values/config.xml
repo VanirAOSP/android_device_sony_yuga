@@ -112,6 +112,9 @@
 
     <!-- LED Flashlight -->
     <bool name="config_enableTorch">true</bool>
+
+    <!-- SD card is hot-pluggable on this device -->
+    <bool name="config_batterySdCardAccessibility">true</bool>
     
     <!-- LUN file to be used by legacy USB manager.
          The existence of this file will be used to determine in the
